@@ -1,0 +1,15 @@
+E:\TasksGB4\bin\Debug\net6.0\TasksGB4.exe
+E:\TasksGB4\bin\Debug\net6.0\TasksGB4.deps.json
+E:\TasksGB4\bin\Debug\net6.0\TasksGB4.runtimeconfig.json
+E:\TasksGB4\bin\Debug\net6.0\TasksGB4.dll
+E:\TasksGB4\bin\Debug\net6.0\TasksGB4.pdb
+E:\TasksGB4\obj\Debug\net6.0\TasksGB4.csproj.AssemblyReference.cache
+E:\TasksGB4\obj\Debug\net6.0\TasksGB4.GeneratedMSBuildEditorConfig.editorconfig
+E:\TasksGB4\obj\Debug\net6.0\TasksGB4.AssemblyInfoInputs.cache
+E:\TasksGB4\obj\Debug\net6.0\TasksGB4.AssemblyInfo.cs
+E:\TasksGB4\obj\Debug\net6.0\TasksGB4.csproj.CoreCompileInputs.cache
+E:\TasksGB4\obj\Debug\net6.0\TasksGB4.dll
+E:\TasksGB4\obj\Debug\net6.0\refint\TasksGB4.dll
+E:\TasksGB4\obj\Debug\net6.0\TasksGB4.pdb
+E:\TasksGB4\obj\Debug\net6.0\TasksGB4.genruntimeconfig.cache
+E:\TasksGB4\obj\Debug\net6.0\ref\TasksGB4.dll
